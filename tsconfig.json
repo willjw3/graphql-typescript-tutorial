@@ -70,5 +70,5 @@
   "exclude": ["node_modules"],
   "include": [
     "./**/*.ts"
-  ]
+, "graphql/schema.js"  ]
 }

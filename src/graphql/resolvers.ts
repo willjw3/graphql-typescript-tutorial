@@ -1,5 +1,4 @@
-import {getUsers} from '../utils';
-
+import { getUsers } from '../utils';
 
 export const resolvers = {
         Query: {
