@@ -3,6 +3,9 @@
 <a href="https://graphql.org/">
   <img width="30px" height="30px" src="https://raw.githubusercontent.com/willjw3/willjw3/main/icons/graphql.svg" />
 </a>
+<a href="https://sequelize.org/master/">
+  <img width="30px" height="30px" src="https://raw.githubusercontent.com/willjw3/willjw3/main/icons/sequelize.svg" />
+</a>
 <a href="https://www.typescriptlang.org/">
   <img width="30px" height="30px" src="https://raw.githubusercontent.com/willjw3/willjw3/main/icons/typescript.svg" />
 </a>
