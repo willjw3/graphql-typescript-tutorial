@@ -1,5 +1,5 @@
 # GraphQL & TypeScript Tutorial  
-*Source code for part 3 of the video tutorial series **GraphQL and TypeScript***  
+  
 <a href="https://graphql.org/">
   <img width="30px" height="30px" src="https://raw.githubusercontent.com/willjw3/willjw3/main/icons/graphql.svg" />
 </a>
