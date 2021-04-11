@@ -12,3 +12,4 @@
 - [Part 3 - YouTube](https://youtu.be/YudkjAsZJk0) 
 - [Part 4 - YouTube](https://youtu.be/gt2Z6zAGtc8)
 - [Part 5 - YouTube](https://youtu.be/hjQ61H_7YwM)
+- [Part 6 - YouTube](https://youtu.be/aqp8B_lekDE)
