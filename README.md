@@ -3,6 +3,9 @@
 <a href="https://graphql.org/">
   <img width="30px" height="30px" src="https://raw.githubusercontent.com/willjw3/willjw3/main/icons/graphql.svg" />
 </a>
+<a href="https://www.prisma.io/">
+  <img width="30px" height="30px" src="https://raw.githubusercontent.com/willjw3/willjw3/main/icons/prisma.svg" />
+</a>
 <a href="https://www.typescriptlang.org/">
   <img width="30px" height="30px" src="https://raw.githubusercontent.com/willjw3/willjw3/main/icons/typescript.svg" />
 </a>
